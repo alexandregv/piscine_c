@@ -1,0 +1,5 @@
+Credentials cache: API:1B9BDFE1-DC6D-47D3-94C5-2B6AB29ADB5D
+        Principal: aguiot--@42.FR
+
+		  Issued                Expires               Principal
+		  Jul 30 13:22:24 2018  Aug  6 13:22:24 2018  krbtgt/42.FR@42.FR
